@@ -3,7 +3,7 @@
   <channel>
       <title>Blog on Speex </title>
       <generator uri="https://gohugo.io">Hugo</generator>
-    <link>http://johnspickes.github.io/tags/blog/</link>
+    <link>https://johnspickes.github.io/tags/blog/</link>
     <language>en-us</language>
     <author>John Spickes</author>
     <copyright>John Spickes</copyright>
@@ -11,19 +11,19 @@
     
     <item>
       <title>A New Approach</title>
-      <link>http://johnspickes.github.io/post/new-blog-new-approach/</link>
+      <link>https://johnspickes.github.io/post/new-blog-new-approach/</link>
       <pubDate>Tue, 08 Mar 2016 12:23:54 EST</pubDate>
       <author>John Spickes</author>
-      <guid>http://johnspickes.github.io/post/new-blog-new-approach/</guid>
+      <guid>https://johnspickes.github.io/post/new-blog-new-approach/</guid>
       <description>I want to try a different approach to my online interactions. I&amp;rsquo;ve played with Facebook for a while, and I&amp;rsquo;ve decided, for now anyway, that it&amp;rsquo;s not my thing. Other social media seem to have similar problems. Fighting Conversations on Facebook are too often heated. Maybe it&amp;rsquo;s that everything is open - all conversations potentially have an audience. Maybe that drives people to feel that they must &amp;ldquo;win&amp;rdquo; every argument. Often, the conversation participants are &amp;ldquo;friends of friends&amp;rdquo;, writing to people they don&amp;rsquo;t know, making assumptions about them based on little or no information.</description>
     </item>
     
     <item>
       <title>Trying Hugo</title>
-      <link>http://johnspickes.github.io/post/trying-hugo/</link>
+      <link>https://johnspickes.github.io/post/trying-hugo/</link>
       <pubDate>Tue, 08 Mar 2016 08:23:54 EST</pubDate>
       <author>John Spickes</author>
-      <guid>http://johnspickes.github.io/post/trying-hugo/</guid>
+      <guid>https://johnspickes.github.io/post/trying-hugo/</guid>
       <description>I&amp;rsquo;m giving Hugo a try. Why? I want my files. I like them to be here, on my machine, editable offline, going with me wherever I go. I like Markdown. I like my files to be in a format I can easily read and edit. I like being able to easily move my content elsewhere when I change my mind. And I will. Markdown is easy to read and convert. I like using my own editor.</description>
     </item>
     

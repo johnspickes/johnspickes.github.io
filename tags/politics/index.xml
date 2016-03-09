@@ -3,7 +3,7 @@
   <channel>
       <title>Politics on Speex </title>
       <generator uri="https://gohugo.io">Hugo</generator>
-    <link>http://johnspickes.github.io/tags/politics/</link>
+    <link>https://johnspickes.github.io/tags/politics/</link>
     <language>en-us</language>
     <author>John Spickes</author>
     <copyright>John Spickes</copyright>
@@ -11,10 +11,10 @@
     
     <item>
       <title>I&#39;m Scared of Net Neutrality</title>
-      <link>http://johnspickes.github.io/post/im-scared-of-net-neutrality/</link>
+      <link>https://johnspickes.github.io/post/im-scared-of-net-neutrality/</link>
       <pubDate>Thu, 13 Nov 2014 00:00:00 EST</pubDate>
       <author>John Spickes</author>
-      <guid>http://johnspickes.github.io/post/im-scared-of-net-neutrality/</guid>
+      <guid>https://johnspickes.github.io/post/im-scared-of-net-neutrality/</guid>
       <description>My unpopular opinion of the day: I&amp;rsquo;m scared of Net Neutrality. I have no doubt that this seems positively outlandish to many people, so let me explain. Of course I&amp;rsquo;m for good internet service, and all that. I don&amp;rsquo;t want my ISP direct my traffic to services they&amp;rsquo;d prefer I visit, or restrict what I can do, or any of that. I&amp;rsquo;m totally for freedom on the internet. So, you may ask, what am I worried about?</description>
     </item>
     
