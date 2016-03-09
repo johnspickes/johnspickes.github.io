@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+      <title>Life on Speex </title>
+      <generator uri="https://gohugo.io">Hugo</generator>
+    <link>http://johnspickes.github.io/tags/life/</link>
+    <language>en-us</language>
+    <author>John Spickes</author>
+    <copyright>John Spickes</copyright>
+    <updated>Mon, 27 Oct 2014 00:00:00 -0500</updated>
+    
+    <item>
+      <title>Papa&#39;s Tool Box</title>
+      <link>http://johnspickes.github.io/post/papas-tool-box/</link>
+      <pubDate>Mon, 27 Oct 2014 00:00:00 -0500</pubDate>
+      <author>John Spickes</author>
+      <guid>http://johnspickes.github.io/post/papas-tool-box/</guid>
+      <description>Over the weekend I was working in the garage, and I came across an old tool box that I inherited from my grandfather. We called him Papa. I remember him often working on some engine or other, for his boat, or his lawn mower, or his truck. His hands were often a little greasy as I remember him. I set about sorting through the contents of this old, rusted tool box.</description>
+    </item>
+    
+  </channel>
+</rss>
+
