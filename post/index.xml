@@ -7,7 +7,16 @@
     <language>en-us</language>
     <author>John Spickes</author>
     <copyright>John Spickes</copyright>
-    <updated>Fri, 09 Jun 2017 13:04:06 EDT</updated>
+    <updated>Mon, 07 May 2018 17:47:00 -0500</updated>
+    
+    <item>
+      <title>Linguistic Misattribution</title>
+      <link>https://johnspickes.github.io/post/linguistic-misattribution/</link>
+      <pubDate>Mon, 07 May 2018 17:47:00 -0500</pubDate>
+      <author>John Spickes</author>
+      <guid>https://johnspickes.github.io/post/linguistic-misattribution/</guid>
+      <description>One of the skills that I have been practicing in my study of NVC, mindfulness, and rationality is what is variously called &amp;ldquo;original seeing&amp;rdquo;, or &amp;ldquo;seeing with fresh eyes&amp;rdquo;. It is the skill of observing a thing simply, as though for the first time, with the intention of seeing the thing as it really is. This involves shutting down one&amp;rsquo;s automatic thought processes, and avoiding the application of judgments that come to us naturally.</description>
+    </item>
     
     <item>
       <title>Family HEART Camp 2016</title>
@@ -15,7 +24,8 @@
       <pubDate>Fri, 09 Jun 2017 13:04:06 EDT</pubDate>
       <author>John Spickes</author>
       <guid>https://johnspickes.github.io/post/heart-camp/</guid>
-      <description>I want to share an experience that my family had for the first time in June 2016, and which I think will become a fixture in our lives for the foreseeable future. I&amp;rsquo;m talking about an event called Family HEART Camp. It is rather difficult to describe this experience briefly. It&amp;rsquo;s also hard to describe without sounding &amp;hellip; well &amp;hellip; maybe a bit crazy. People often exaggerate and use superlatives inappropriately.</description>
+      <description>I want to share an experience that my family had for the first time in June 2016, and which I think will become a fixture in our lives for the foreseeable future. I&amp;rsquo;m talking about an event called Family HEART Camp.
+It is rather difficult to describe this experience briefly. It&amp;rsquo;s also hard to describe without sounding &amp;hellip; well &amp;hellip; maybe a bit crazy. People often exaggerate and use superlatives inappropriately.</description>
     </item>
     
     <item>
@@ -24,7 +34,8 @@
       <pubDate>Sun, 20 Mar 2016 15:58:43 EDT</pubDate>
       <author>John Spickes</author>
       <guid>https://johnspickes.github.io/post/cause-of-emotion/</guid>
-      <description>&amp;ldquo;He made me angry.&amp;rdquo; This is a common way of talking in modern western society. We talk as though our emotions are directly caused by external stimuli. It&amp;rsquo;s simple stimulus and response. In this example, some action &amp;ldquo;he&amp;rdquo; has taken has caused my anger; and in real life it often feels like this is what happens. The cause (his action) occurs very shortly before the effect (my anger), and if he hadn&amp;rsquo;t taken his action, I wouldn&amp;rsquo;t be angry.</description>
+      <description>&amp;ldquo;He made me angry.&amp;rdquo; This is a common way of talking in modern western society. We talk as though our emotions are directly caused by external stimuli.
+It&amp;rsquo;s simple stimulus and response. In this example, some action &amp;ldquo;he&amp;rdquo; has taken has caused my anger; and in real life it often feels like this is what happens. The cause (his action) occurs very shortly before the effect (my anger), and if he hadn&amp;rsquo;t taken his action, I wouldn&amp;rsquo;t be angry.</description>
     </item>
     
     <item>
@@ -33,7 +44,8 @@
       <pubDate>Tue, 08 Mar 2016 20:56:27 EST</pubDate>
       <author>John Spickes</author>
       <guid>https://johnspickes.github.io/post/invest-emotions/</guid>
-      <description>This was written as a guest post for the blog Advancing to Greater. I hope you&amp;rsquo;ll give it a read. Thanks for the invitation, Rich! Some things are under our control, while others are not. This is one of the core teachings of the ancient philosophy of Stoicism: that we should be always aware of which things are inside our control, and which things are outside. What purpose does it serve to maintain an awareness of the limits of our control?</description>
+      <description>This was written as a guest post for the blog Advancing to Greater. I hope you&amp;rsquo;ll give it a read. Thanks for the invitation, Rich!
+Some things are under our control, while others are not. This is one of the core teachings of the ancient philosophy of Stoicism: that we should be always aware of which things are inside our control, and which things are outside. What purpose does it serve to maintain an awareness of the limits of our control?</description>
     </item>
     
     <item>
@@ -42,7 +54,10 @@
       <pubDate>Tue, 08 Mar 2016 12:23:54 EST</pubDate>
       <author>John Spickes</author>
       <guid>https://johnspickes.github.io/post/new-blog-new-approach/</guid>
-      <description>I want to try a different approach to my online interactions. I&amp;rsquo;ve played with Facebook for a while, and I&amp;rsquo;ve decided, for now anyway, that it&amp;rsquo;s not my thing. Other social media seem to have similar problems. Fighting Conversations on Facebook are too often heated. Maybe it&amp;rsquo;s that everything is open - all conversations potentially have an audience. Maybe that drives people to feel that they must &amp;ldquo;win&amp;rdquo; every argument. Often, the conversation participants are &amp;ldquo;friends of friends&amp;rdquo;, writing to people they don&amp;rsquo;t know, making assumptions about them based on little or no information.</description>
+      <description>I want to try a different approach to my online interactions.
+I&amp;rsquo;ve played with Facebook for a while, and I&amp;rsquo;ve decided, for now anyway, that it&amp;rsquo;s not my thing. Other social media seem to have similar problems.
+Fighting Conversations on Facebook are too often heated.
+Maybe it&amp;rsquo;s that everything is open - all conversations potentially have an audience. Maybe that drives people to feel that they must &amp;ldquo;win&amp;rdquo; every argument.</description>
     </item>
     
     <item>
@@ -51,7 +66,9 @@
       <pubDate>Tue, 08 Mar 2016 08:23:54 EST</pubDate>
       <author>John Spickes</author>
       <guid>https://johnspickes.github.io/post/trying-hugo/</guid>
-      <description>I&amp;rsquo;m giving Hugo a try. Why? I want my files. I like them to be here, on my machine, editable offline, going with me wherever I go. I like Markdown. I like my files to be in a format I can easily read and edit. I like being able to easily move my content elsewhere when I change my mind. And I will. Markdown is easy to read and convert. I like using my own editor.</description>
+      <description>I&amp;rsquo;m giving Hugo a try.
+Why?
+ I want my files. I like them to be here, on my machine, editable offline, going with me wherever I go. I like Markdown.  I like my files to be in a format I can easily read and edit. I like being able to easily move my content elsewhere when I change my mind. And I will. Markdown is easy to read and convert.</description>
     </item>
     
     <item>
@@ -60,7 +77,10 @@
       <pubDate>Mon, 01 Dec 2014 17:55:35 EST</pubDate>
       <author>John Spickes</author>
       <guid>https://johnspickes.github.io/post/end-of-stoic-week-2014/</guid>
-      <description>What follows is a journal entry I wrote on December 1, 2014. I kind of half-assed my way through Stoic week, and certainly didn&amp;rsquo;t give it the effort it deserved. My excuse is that I was trying to be a good parent, and neglected the Stoic Week practice for that. Anyway, I do feel I came away with some useful nuggets. One of Stoicism&amp;rsquo;s main ideas is to be conscious of what&amp;rsquo;s under your control and what isn&amp;rsquo;t.</description>
+      <description>What follows is a journal entry I wrote on December 1, 2014.
+I kind of half-assed my way through Stoic week, and certainly didn&amp;rsquo;t give it the effort it deserved. My excuse is that I was trying to be a good parent, and neglected the Stoic Week practice for that.
+Anyway, I do feel I came away with some useful nuggets.
+One of Stoicism&amp;rsquo;s main ideas is to be conscious of what&amp;rsquo;s under your control and what isn&amp;rsquo;t.</description>
     </item>
     
     <item>
@@ -69,7 +89,10 @@
       <pubDate>Thu, 13 Nov 2014 00:00:00 EST</pubDate>
       <author>John Spickes</author>
       <guid>https://johnspickes.github.io/post/im-scared-of-net-neutrality/</guid>
-      <description>My unpopular opinion of the day: I&amp;rsquo;m scared of Net Neutrality. I have no doubt that this seems positively outlandish to many people, so let me explain. Of course I&amp;rsquo;m for good internet service, and all that. I don&amp;rsquo;t want my ISP direct my traffic to services they&amp;rsquo;d prefer I visit, or restrict what I can do, or any of that. I&amp;rsquo;m totally for freedom on the internet. So, you may ask, what am I worried about?</description>
+      <description>My unpopular opinion of the day: I&amp;rsquo;m scared of Net Neutrality.
+I have no doubt that this seems positively outlandish to many people, so let me explain.
+Of course I&amp;rsquo;m for good internet service, and all that. I don&amp;rsquo;t want my ISP direct my traffic to services they&amp;rsquo;d prefer I visit, or restrict what I can do, or any of that. I&amp;rsquo;m totally for freedom on the internet.
+So, you may ask, what am I worried about?</description>
     </item>
     
     <item>
@@ -78,7 +101,9 @@
       <pubDate>Mon, 27 Oct 2014 00:00:00 -0500</pubDate>
       <author>John Spickes</author>
       <guid>https://johnspickes.github.io/post/papas-tool-box/</guid>
-      <description>Over the weekend I was working in the garage, and I came across an old tool box that I inherited from my grandfather. We called him Papa. I remember him often working on some engine or other, for his boat, or his lawn mower, or his truck. His hands were often a little greasy as I remember him. I set about sorting through the contents of this old, rusted tool box.</description>
+      <description>Over the weekend I was working in the garage, and I came across an old tool box that I inherited from my grandfather.
+We called him Papa. I remember him often working on some engine or other, for his boat, or his lawn mower, or his truck. His hands were often a little greasy as I remember him.
+I set about sorting through the contents of this old, rusted tool box.</description>
     </item>
     
     <item>
@@ -87,7 +112,8 @@
       <pubDate>Mon, 17 Feb 2014 00:00:00 EST</pubDate>
       <author>John Spickes</author>
       <guid>https://johnspickes.github.io/post/moral-judgement-impediment/</guid>
-      <description>Recently I&amp;rsquo;ve been learning about something called Nonviolent Communication. I don&amp;rsquo;t want to go into the whole topic of NVC here - I just want to write down some thoughts I&amp;rsquo;ve been rolling over in my mind regarding certain ideas that I encountered when learning about it. This hasn&amp;rsquo;t really been built into a well-formed essay yet, so forgive my inelegance. In particular, I&amp;rsquo;m thinking about the extent to which we apply moral judgement, and the effects that has on our happiness, relationships, and communication, and in particular how this relates to parenting.</description>
+      <description>Recently I&amp;rsquo;ve been learning about something called Nonviolent Communication. I don&amp;rsquo;t want to go into the whole topic of NVC here - I just want to write down some thoughts I&amp;rsquo;ve been rolling over in my mind regarding certain ideas that I encountered when learning about it. This hasn&amp;rsquo;t really been built into a well-formed essay yet, so forgive my inelegance.
+In particular, I&amp;rsquo;m thinking about the extent to which we apply moral judgement, and the effects that has on our happiness, relationships, and communication, and in particular how this relates to parenting.</description>
     </item>
     
     <item>
@@ -96,7 +122,8 @@
       <pubDate>Sun, 19 May 2013 00:00:00 -0500</pubDate>
       <author>John Spickes</author>
       <guid>https://johnspickes.github.io/post/same-old-philosophy/</guid>
-      <description>So, yeah&amp;hellip; It&amp;rsquo;s been a long time since I last used this blog - but you don&amp;rsquo;t want to read a blog post about how I haven&amp;rsquo;t been using my blog. I&amp;rsquo;ll cut to the meat, and come back to the blog-related stuff at the end. I have spent far too many brain cycles thinking about politics. I&amp;rsquo;ve come to realize this over the course of the last few years. For many years before that, I spent a great amount of mental and emotional energy on political issues.</description>
+      <description>So, yeah&amp;hellip; It&amp;rsquo;s been a long time since I last used this blog - but you don&amp;rsquo;t want to read a blog post about how I haven&amp;rsquo;t been using my blog. I&amp;rsquo;ll cut to the meat, and come back to the blog-related stuff at the end.
+I have spent far too many brain cycles thinking about politics. I&amp;rsquo;ve come to realize this over the course of the last few years.</description>
     </item>
     
   </channel>
